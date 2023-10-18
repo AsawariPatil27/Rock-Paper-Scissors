@@ -1,3 +1,2 @@
 # Rock-Paper-Scissors
-A fun game to play in the free time...
-
+Hey there! Rock Paper Scissors is a super fun game that you can play with a computer. You make your choice (rock, paper, or scissors) and the computer makes its choice too. Just like when playing with a friend, rock beats scissors, scissors beats paper, and paper beats rock. The computer's choice is determined randomly, so it's all about your strategy and quick thinking. It's a great way to challenge yourself and see if you can outsmart the computer. Whether you're playing against friends or a computer opponent, Rock Paper Scissors is always a blast. Give it a try and see who comes out on top! 🤖✋✌️
